@@ -8,7 +8,9 @@ The MNIST database is a dataset of handwritten digits. It has 60,000 training sa
 
 ## Model
 This is a sequential model with three dense layers and some dropouts to avoid overfitting.
-The summary can be viewed with the command `model.summary()`
+The summary can be viewed with the command `model.summary()` after running the model.
++ The model performance can be improved upto 98% using more number of epochs. If your yourhardware supports it, use upto 100 epochs.
+
 
 ## Hidden layers Visualization
 I've used the weights of my model to build a new model that is truncated at the layer I want to read. And then I used TSNE and Bokeh to extract and visualize the embeddings of hidden layer data.
