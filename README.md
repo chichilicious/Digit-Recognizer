@@ -1,4 +1,6 @@
-# Digit Recognizer
+# Visualisation of hidden Layers 
+
+This repository contains implementation of a sequential model on the MNIST dataset along with the plot and visualization of hidden layers.
 
 ## Dataset
 
