@@ -9,7 +9,7 @@ The MNIST database is a dataset of handwritten digits. It has 60,000 training sa
 ## Model
 This is a sequential model with three dense layers and some dropouts to avoid overfitting.
 The summary can be viewed with the command `model.summary()` after running the model.
-+ The model performance can be improved upto 98% using more number of epochs. If your yourhardware supports it, use upto 100 epochs.
++ The model performance can be improved upto 98% using more number of epochs. If your your hardware supports it, use upto 100 epochs.
 
 
 ## Hidden layers Visualization
